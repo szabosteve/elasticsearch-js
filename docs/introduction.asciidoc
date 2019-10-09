@@ -1,7 +1,7 @@
 [[introduction]]
 == Introduction
 
-The official Node.js client for Elasticsearch.
+The official Node.js client for {es}.
 
 === Features
 * One-to-one mapping with REST API.
